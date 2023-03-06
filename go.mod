@@ -1,7 +1,7 @@
 module github.com/hashicorp/terraform
 
 require (
-	cloud.google.com/go/storage v1.10.0
+	cloud.google.com/go/storage v1.14.0
 	github.com/Azure/azure-sdk-for-go v59.2.0+incompatible
 	github.com/Azure/go-autorest/autorest v0.11.22
 	github.com/Netflix/go-expect v0.0.0-20211003183012-e1a7c020ce25
@@ -71,7 +71,7 @@ require (
 	github.com/pkg/browser v0.0.0-20201207095918-0426ae3fba23
 	github.com/pkg/errors v0.9.1
 	github.com/posener/complete v1.2.3
-	github.com/spf13/afero v1.2.2
+	github.com/spf13/afero v1.9.5
 	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.232
 	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/tag v1.0.233
 	github.com/tencentyun/cos-go-sdk-v5 v0.7.29
@@ -82,13 +82,13 @@ require (
 	github.com/zclconf/go-cty-debug v0.0.0-20191215020915-b22d67c1ba0b
 	github.com/zclconf/go-cty-yaml v1.0.2
 	go.etcd.io/etcd v0.5.0-alpha.5.0.20210428180535-15715dcf1ace
-	golang.org/x/crypto v0.0.0-20211108221036-ceb1ce70b4fa
+	golang.org/x/crypto v0.0.0-20220722155217-630584e8d5aa
 	golang.org/x/mod v0.4.2
-	golang.org/x/net v0.0.0-20210805182204-aaa1db679c0d
+	golang.org/x/net v0.0.0-20211112202133-69e39bad7dc2
 	golang.org/x/oauth2 v0.0.0-20210514164344-f6687ab2804c
 	golang.org/x/sys v0.0.0-20210809222454-d867a43fc93e
 	golang.org/x/term v0.0.0-20210220032956-6a3ed077a48d
-	golang.org/x/text v0.3.6
+	golang.org/x/text v0.3.7
 	golang.org/x/tools v0.1.7
 	google.golang.org/api v0.44.0-impersonate-preview
 	google.golang.org/grpc v1.36.0
